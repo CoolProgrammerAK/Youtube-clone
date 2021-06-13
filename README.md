@@ -1,5 +1,5 @@
 # Youtube Clone
-Youtube clone with playlist,video streaming.
+Youtube clone created with react-native (expo).
 ## Features
 
 * Technology used:
@@ -38,20 +38,20 @@ Get an overview of api, how to create a project, what kind of apis Google offers
 ### Screenshots
 
 <p float="left">
- <img width="250" alt="Splash Screen" height="500" src="https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/splash.png" />
-<img width="250" alt="Home Screen" height="500" src="https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/home.png" />
+ <img width="250" alt="Splash Screen" height="500" src="https://github.com/CoolProgrammerAK/Youtube-clone/blob/main/screenshots/splash.png" />
+<img width="250" alt="Home Screen" height="500" src="https://github.com/CoolProgrammerAK/Youtube-clone/blob/main/screenshots/home.png" />
  
-<img width="250" alt="Recent Screen" height="500" src="https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/recent.png" />
+<img width="250" alt="Recent Screen" height="500" src="https://github.com/CoolProgrammerAK/Youtube-clone/blob/main/screenshots/recent.png" />
 </p>
 <p float="left">
  
- <img width="250" alt="Search Screen" height="500" src="https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/search.png" />
-<img width="250" alt="Video Player" height="500" src="https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/video.png" />
-<img width="250" alt="Theme" height="500" src="https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/theme.png" />
+ <img width="250" alt="Search Screen" height="500" src="https://github.com/CoolProgrammerAK/Youtube-clone/blob/main/screenshots/search.png" />
+<img width="250" alt="Video Player" height="500" src="https://github.com/CoolProgrammerAK/Youtube-clone/blob/main/screenshots/video.png" />
+<img width="250" alt="Theme" height="500" src="https://github.com/CoolProgrammerAK/Youtube-clone/blob/main/screenshots/theme.png" />
 </p>
 <p float="left">
 
-<img width="250" align="center" alt="Playlist screen" height="500" src="https://github.com/CoolProgrammerAK/Musify/blob/main/screenshots/playlist.png" />
+<img width="250" align="center" alt="Playlist screen" height="500" src="https://github.com/CoolProgrammerAK/Youtube-clone/blob/main/screenshots/playlist.png" />
 </p>
 
 
